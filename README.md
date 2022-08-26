@@ -8,7 +8,7 @@ The code was run using Python. The code require the installation of the followin
 - LightGBM (https://lightgbm.readthedocs.io/en/latest/)
 
 # Dataset
-Put the CSV file you want to predict in the "Data" folder (test.csv is already included).
+Put the CSV file you want to predict in the DATA folder (test.csv is already included).
 
 - Data Description
 
