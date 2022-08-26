@@ -6,3 +6,8 @@ The code was run using Python. The code require the installation of the followin
 - Pickle
 - Pandas
 - LightGBM (https://lightgbm.readthedocs.io/en/latest/)
+
+# Running
+```
+$ Python prediction.py
+```
