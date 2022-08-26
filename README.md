@@ -33,5 +33,5 @@ Put the CSV file you want to predict in the DATA folder (test.csv is already inc
 
 # Running
 ```
-$ Python prediction.py
+$ python prediction.py
 ```
