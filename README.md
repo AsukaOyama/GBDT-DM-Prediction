@@ -1,5 +1,7 @@
 # Code repository of the paper "Gradient Boosting Decision Tree Becomes More Reliable Than Logistic Regression in Predicting Probability for Diabetes With Big Data" (Seto et al. 2022) 
 
+One of the GBDT-based diabetes prediction models is available for evaluating the model performance.
+
 # Code requirements
 The code can be run in Python. The code require the installation of the following packages:
 
