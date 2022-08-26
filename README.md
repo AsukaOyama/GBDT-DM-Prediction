@@ -15,7 +15,7 @@ Put the CSV file you want to predict in the DATA folder (test.csv is already inc
 |Name|Details|
 |---|---|
 |age| |
-|sex|1: Women, 0: Men|
+|sex|1: Woman, 0: Man|
 |bmi| |
 |shuushuku_ketsuatsu| Systolic blood pressure|
 |chuusei_shibou| Triglyceride cholosterol|
