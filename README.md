@@ -11,6 +11,7 @@ The code was run using Python. The code require the installation of the followin
 Put the CSV file you want to predict in the "Data" folder (test.csv is already included).
 
 - Data Description
+
 |Name|Details|
 |---|---|
 |age| |
