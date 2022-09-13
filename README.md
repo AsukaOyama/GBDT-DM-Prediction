@@ -27,8 +27,8 @@ Put the CSV file you want to predict in the DATA folder (test.csv is already inc
 |hba1c| Glycated hemoglobin A1c|
 |nyoutampaku| Urinary protein, 1: positive, 0: negative|
 |kitsuen| Smoking|
-|fukuyaku_ketsuatsu| Anti hypertension|
-|fukuyaku_shishitsu| Anti dyslipidemia|
+|fukuyaku_ketsuatsu| Anti hypertension drug|
+|fukuyaku_shishitsu| Anti dyslipidemia drug|
 |kioureki_noukekkan| Medical history of Stroke|
 |kioureki_shinkekkan| Medical history of Heart disease|
 |kioureki_jinfuzen_jinkoutouseki| Medical HIstory of Renal failure|
